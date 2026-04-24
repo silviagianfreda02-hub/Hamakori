@@ -1,13 +1,8 @@
-# CHIMERA Name
+# HAMAKORI
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+Il nome di hamakori deve essere pronunciato sussurrando molto lentamente altrimenti non si presenta, essendo lui molto timido. Il nome è un mix tra la carpa koi che costituisce la parte inferiore, e il criceto cioè il suo aspetto principale. Hamokiri è nato dal richiamo degli umani che cercano un po' di fortuna. È nato uscendo piano piano dall’acqua e da lì ha iniziato con il tempo ad imparare ad usare le proprie ali. Non ricorda bene come è nato, ma ha dei lontani ricordi legati alla sua famiglia. È grande metà rispetto ad un essere umano ed ha quasi 10 anni. Essendo metà pesce e metà volatile ha la capacità di far scomparire la propria coda quando deve volare, e ritirare le proprie ali quando deve nuotare. Nel momento in cui fa scomparire la coda fa comparire delle bellissime zampette da cervo. Ha dei colori molto vivaci e questo attira anche animali curiosi. Ha quasi tutti i sensi tranne l’udito. Percepisce il mondo principalmente attraverso i suoi occhi, ma grazie anche alle sue corna che lo aiutano ad orientarsi. Quando lo si tocca le sensazioni possono cambiare in base alla zona del corpo. Può essere morbido, duro ma anche scivoloso e piumato. Non ha la capacità di parlare, ma solo di ascoltare. È ancora molto lento a camminare sulla terra ferma in quanto deve ancora imparare ad utilizzare le proprie gambe. Nell’acqua invece se la cava benissimo. È una creatura molto timida, nata specialmente per portare fortuna a chi lo invoca. Essendo molto timido non si mostra a tutti ma solo a chi riesce a pronunciare bene il suo nome a bassa voce. Ama la compagnia dell’uomo ed anche essere accarezzato da loro, ma non ama particolarmente quella degli animali rumorosi, in quanto lo disturbano. Ha paura del buio e ama andare alle cascate per giocare con l’acqua. È un’animale principalmente erbivoro a cui piace collezionare foglie e fiori mai visti prima. 
 
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
+# ORIGINI
 
+Hamakori è ispirato alle carpe Koi. Sono originarie della Cina e sviluppate in Giappone e sono varietà ornamentali della carpa comune, nate come pesce alimentare e evolutesi in simboli di perseveranza, forza e fortuna. è ispirato anche ad un criceto, un piccolo roditore notturno e solitario, famoso per le tasche guanciali che usa per trasportare cibo. 
 
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
